@@ -1,0 +1,2688 @@
+fileFormatVersion: 2
+guid: 82336258177ec834ebc2aeb7c9ca92b3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BackgroundMaker2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 288
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e452c0983b4bd4abfe6c79a01572e4
+      internalID: 1691818411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 412
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6674d562451cf489bdb0813ca0c7f9
+      internalID: -345468177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 219
+        width: 111
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58c50d41168fae469881a6eb8b4ee68
+      internalID: -236438574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_3
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 0
+        width: 7
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865f6bef3db3c7043aaaeb6320f00814
+      internalID: 348120782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_4
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 0
+        width: 4
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a09547d13546e64ebefbffcc17d6b2b
+      internalID: -1511321648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_5
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 4
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1dd7ffba534564c9a09b15c3df7b58
+      internalID: -685617966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 363
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6982c67cd618e469aa4c8565be4df6
+      internalID: 488241513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_7
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 348
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba3fb75d6e2888478e6ba811a0d2fec
+      internalID: 1829076651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 347
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778d29754351e19479eee17ff2d2e2c0
+      internalID: 2026837115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_9
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 0
+        width: 4
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a60a78ddd386c4ea70de6e01f6daad
+      internalID: -838397246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 327
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87774d58626f9354a991e9508014e0be
+      internalID: -2045544316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_11
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 326
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f48473e494bb0044962153d6580937a
+      internalID: 600909564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_12
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 295
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b156f0288e924d2448396ca844af911b
+      internalID: 1062125127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 265
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59b5bfee1a7f6f48b646654764e6688
+      internalID: 1731742586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 269
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a3de1c8c82cca4c9c00bbfc8636614
+      internalID: 725882998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 265
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0c742b1787c7749b01ec005faa1bb6
+      internalID: 2135012797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 265
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a46f93e1a3d9ba418306e4fc35fc79e
+      internalID: -685654331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_17
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 269
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b393dafeb5f5fd84ab63fc080cc9fcd4
+      internalID: -1783502250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_18
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 265
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c8a261a261e2d4dae6f3f6a9fc0d01
+      internalID: 206465098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_19
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 265
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f91ef93919aa3241836bbcf5db45f18
+      internalID: 1119758631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_20
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 269
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5451c32421cc244a96ea6fe47462d6
+      internalID: 1753358034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 265
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12882ea3d021f8f44b5feff8c4334edb
+      internalID: 25257288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be34cc09b2a5c4e40bdec0d0753e5fc9
+      internalID: 959194531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_23
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 228
+        width: 93
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8570e64b92739419be87ac147f0c85
+      internalID: -773922838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_24
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 242
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f826e69eb56dc4ea9612ca592482d2
+      internalID: -1104833727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_25
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 242
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ee0300291ec004888bcde28bbca8ad
+      internalID: 448414135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 228
+        width: 93
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1953d47cd504e624bae23c007bde2b09
+      internalID: 1515472408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 244
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd76b113d50e2694f957eae7c4934e25
+      internalID: 1880963395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_28
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 242
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cd9c64a1baa5d449899c72548a3eb5
+      internalID: -799765864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_29
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 228
+        width: 93
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1425ddb2b9eb5af43a428565a5cccc8d
+      internalID: -1888982781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_30
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 244
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e377c62880e4446acda36609be0758
+      internalID: -1085395944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_31
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 230
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd375647240bb4d4da98e2f0edc3bcd0
+      internalID: 1335415457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 230
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d128f4c92df0704797931342dc95346
+      internalID: -1692778434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_33
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 230
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107b67a91ceeae548a167b9c6fa76583
+      internalID: -349252846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 198
+        width: 58
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0dd838af880da4a9fd95965ea206ec
+      internalID: 817897394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_35
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 197
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7021a36a762122642acd738403e3a1d8
+      internalID: 1612533350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_36
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 197
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307030e0896ecd94da6936de7676ab48
+      internalID: -2010359327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_37
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 198
+        width: 58
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f66cc21b6ea94a4f8627481ef734442
+      internalID: 1096317529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_38
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 197
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98a7983f85f5a04aaa3a9bdc7b17022
+      internalID: 725970318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_39
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 198
+        width: 58
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359d7ddada2c32443bffcf2999accb47
+      internalID: -1822317964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_40
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 4
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2388bffdf29fa342b5a43ebbb1b8098
+      internalID: 1439765186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_41
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 7
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab74ea769d403b4cbad94997b957ee2
+      internalID: 1347196368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 180
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9a46fcad8b4a245b68791cae494ae6
+      internalID: 43154204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 186
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a1743b13ca9d14db34b9685a1519b4
+      internalID: 1933129055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_44
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 178
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af140f76548ce0439f9c50d6790b1e2
+      internalID: 1287875075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_45
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 178
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4881bdcba62dff54a905fc7159af34d0
+      internalID: 1804368313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_46
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 186
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cec40f285a46f47b46d0619e615d79
+      internalID: -883218339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_47
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 180
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9307593e62713c04fb5ed39082ab620e
+      internalID: 417505616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_48
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 178
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56167f2d2b88f93429326f496312e11f
+      internalID: 1243904279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_49
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 186
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f739de2e80e18b4cad7b7309205ba1a
+      internalID: 261362603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_50
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 180
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15feac782007540499ba385101a3936d
+      internalID: 240870034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_51
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 178
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f60f5147689fb4a85eb8b6fa0218c9
+      internalID: 1710224573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 178
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9ce29b39b66314bb1e09ae19145e97
+      internalID: -605580107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_53
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 165
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d0596d10e38914ea3a08290c05f2c3
+      internalID: -1243665375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_54
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 165
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94eb241f4aedac8478c8a5552de45461
+      internalID: -1130029504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_55
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 163
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dabec9a28716a4dbdc9d25c2aab86d
+      internalID: 781391018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_56
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 163
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362496ebf735e4146a5f5c5b65bfd5cf
+      internalID: -1027945872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_57
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 163
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d53a54180d60940acadbd4ef5cb8a8
+      internalID: -876069770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_58
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 163
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c0ac82a2c3dd3448cb2f2d2c6b0e2a
+      internalID: 985510883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_59
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 165
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c4d63f6fa43614cbe711ece4fe6794
+      internalID: -1397539227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_60
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 165
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dba7c44ee1c78940a896732631f668a
+      internalID: -1877044905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_61
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 163
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e9cff3c0302004395eda81fd8f3ef9
+      internalID: -602495767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_62
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 163
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e002a0982737c8418ac43d0b82e70d1
+      internalID: -938283612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_63
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 165
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9352cdf75e993314aa05657d3b7eae33
+      internalID: 1334515857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_64
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 165
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb64d410e3465747a6dfa90f4874915
+      internalID: -187911979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 137
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f360816cbf52a834a895e43f91d869d4
+      internalID: -381963869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_66
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 141
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91cd1e9764893240925d3342150ffae
+      internalID: 994444107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_67
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 137
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328d5ea7b4d2d7d4bbeb5707064dc7e8
+      internalID: 1644151579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_68
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 137
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9e393e86de94e46b14bb7d5aa9a600
+      internalID: -662688256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_69
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 141
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1f244a14b178840b5468d86b22320f
+      internalID: 1675989095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_70
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 137
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e83cf5170340114492ea44f7822395e
+      internalID: -1660273661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_71
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 137
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84d48cb1befd444bafee247ddf6372a
+      internalID: -1071774511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_72
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 141
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a60f019f6ae864cbad247aa5b31ea7
+      internalID: -513379789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_73
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 137
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afce3ec34c1368147a5d5fb217f0c9c1
+      internalID: -218881932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d245d88d68b1d41438f01626a437ac15
+      internalID: -832365494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_75
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 100
+        width: 93
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2294618c22c47044a361bcbf7f4b6ad
+      internalID: 168602200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_76
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 114
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9b90fc060bbbf4eb92e00c032cf085
+      internalID: -375196015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_77
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 114
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79d9c1d9875e7345998098f611a6032
+      internalID: -1313833129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_78
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 100
+        width: 93
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f744d7338abaa844d83d39fd0f20f3d8
+      internalID: 725012378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_79
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 116
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7bd3c0ea7569c4db983e4102e3fb11
+      internalID: -399421334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_80
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 114
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79e081c1547acc4faeb194ea447bd5a
+      internalID: -414125858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_81
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 100
+        width: 93
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1053b8025d4ea44b013042ed7e7ffb
+      internalID: -1115769138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_82
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 116
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e34714c4c7fe274488d4f977418e4b5
+      internalID: -1975819956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_83
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 102
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f411e43b6ece334f8a0e1841edae2ba
+      internalID: 1727908029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_84
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 102
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94f0c569d042a84380b0eb7d6a46af1
+      internalID: -10190489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_85
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 102
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d95f26885a1a9499043deea695530f
+      internalID: -966341515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_86
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 70
+        width: 58
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedab1ca5f5373b45a10565718c5d115
+      internalID: -1903627887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_87
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 69
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b281c3b5b99eed458eed06a172a05b0
+      internalID: 275932141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_88
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 69
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078ed07dc62ed9a4086f47438bc899b2
+      internalID: -854162428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_89
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 70
+        width: 58
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2841c661c1a7ca46b8a2db6de6649f0
+      internalID: -1413022316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_90
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 69
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff8c3e0c7bd6e34fb9cd16e1920e67b
+      internalID: 891097874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_91
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 70
+        width: 58
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ebc55db833b7e4c8b7e79eacfdc4ae
+      internalID: -746627610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_92
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 52
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0be528b28eac54d856d43d11568b61
+      internalID: -1172543435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_93
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 58
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbe358df187afc44b5b0cd859b27fe2
+      internalID: 1013284936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_94
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 50
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7fd9a8c69eda140b1945396fc46470
+      internalID: 922476457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_95
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 50
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea30ce19e8405934ea44224cbb06337d
+      internalID: -921028763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_96
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 58
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a04741e15147024d8b387456441cedd
+      internalID: 1736779702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_97
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 52
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b38e7d5ba589ab4e87f3e84e7a45bdf
+      internalID: 1378300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_98
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 50
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f36e2122479ae4bb40ffef1f44ad82
+      internalID: -780011679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_99
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 58
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f986788f0dded5f4aaa4112b3f8347f2
+      internalID: -1506606182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_100
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 52
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98aae5aa47fb2e4f8e49bcc2d3dee7b
+      internalID: -1883725974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_101
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 50
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f198b569a259ec4ab2dad80495382e4
+      internalID: 1141310648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_102
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 50
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b719bf076e33fd34c992854f4e9b9e06
+      internalID: 1175836065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_103
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90df7acdda919cc45b42272e7b9bbdc5
+      internalID: -379704994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_104
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 37
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638c0e34397987641967399acfcd8aaf
+      internalID: 212340612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_105
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 35
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd6f12db9e3598439736f1abf6ff2e4
+      internalID: 173597087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_106
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 35
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e79d229028ad545a3d5f185bf87fa4
+      internalID: -628234886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_107
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 35
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869a39e03a220284e9d711824dc39187
+      internalID: 168501865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_108
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 35
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee6e1eed1cfabe4b99d56eb500453cb
+      internalID: -17148516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_109
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 37
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69ddf99d180573419cfc32feb31db13
+      internalID: 649843524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_110
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 37
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449b0fa927c221644b6f4df0234f0703
+      internalID: -1018265472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_111
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 35
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1a28f0f873ce64a822990dfb8d7873
+      internalID: -246498979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_112
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 35
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fa7463405697941917aeab9e938d59
+      internalID: -128263262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_113
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 37
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960e1f307fcb21343814adbed1b54466
+      internalID: -170398600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_114
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 37
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f18e3f25d8886408a5650358ac7180
+      internalID: -235779050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 384
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b8fc2be92c07540b537d0f25ad6306
+      internalID: 1328054630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundMaker2_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 384
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6212eda507448f47a3e73a2fe5c836b
+      internalID: -1284312843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BackgroundMaker2_0: 1691818411
+      BackgroundMaker2_1: -345468177
+      BackgroundMaker2_10: -2045544316
+      BackgroundMaker2_100: -1883725974
+      BackgroundMaker2_101: 1141310648
+      BackgroundMaker2_102: 1175836065
+      BackgroundMaker2_103: -379704994
+      BackgroundMaker2_104: 212340612
+      BackgroundMaker2_105: 173597087
+      BackgroundMaker2_106: -628234886
+      BackgroundMaker2_107: 168501865
+      BackgroundMaker2_108: -17148516
+      BackgroundMaker2_109: 649843524
+      BackgroundMaker2_11: 600909564
+      BackgroundMaker2_110: -1018265472
+      BackgroundMaker2_111: -246498979
+      BackgroundMaker2_112: -128263262
+      BackgroundMaker2_113: -170398600
+      BackgroundMaker2_114: -235779050
+      BackgroundMaker2_115: 1328054630
+      BackgroundMaker2_116: -1284312843
+      BackgroundMaker2_12: 1062125127
+      BackgroundMaker2_13: 1731742586
+      BackgroundMaker2_14: 725882998
+      BackgroundMaker2_15: 2135012797
+      BackgroundMaker2_16: -685654331
+      BackgroundMaker2_17: -1783502250
+      BackgroundMaker2_18: 206465098
+      BackgroundMaker2_19: 1119758631
+      BackgroundMaker2_2: -236438574
+      BackgroundMaker2_20: 1753358034
+      BackgroundMaker2_21: 25257288
+      BackgroundMaker2_22: 959194531
+      BackgroundMaker2_23: -773922838
+      BackgroundMaker2_24: -1104833727
+      BackgroundMaker2_25: 448414135
+      BackgroundMaker2_26: 1515472408
+      BackgroundMaker2_27: 1880963395
+      BackgroundMaker2_28: -799765864
+      BackgroundMaker2_29: -1888982781
+      BackgroundMaker2_3: 348120782
+      BackgroundMaker2_30: -1085395944
+      BackgroundMaker2_31: 1335415457
+      BackgroundMaker2_32: -1692778434
+      BackgroundMaker2_33: -349252846
+      BackgroundMaker2_34: 817897394
+      BackgroundMaker2_35: 1612533350
+      BackgroundMaker2_36: -2010359327
+      BackgroundMaker2_37: 1096317529
+      BackgroundMaker2_38: 725970318
+      BackgroundMaker2_39: -1822317964
+      BackgroundMaker2_4: -1511321648
+      BackgroundMaker2_40: 1439765186
+      BackgroundMaker2_41: 1347196368
+      BackgroundMaker2_42: 43154204
+      BackgroundMaker2_43: 1933129055
+      BackgroundMaker2_44: 1287875075
+      BackgroundMaker2_45: 1804368313
+      BackgroundMaker2_46: -883218339
+      BackgroundMaker2_47: 417505616
+      BackgroundMaker2_48: 1243904279
+      BackgroundMaker2_49: 261362603
+      BackgroundMaker2_5: -685617966
+      BackgroundMaker2_50: 240870034
+      BackgroundMaker2_51: 1710224573
+      BackgroundMaker2_52: -605580107
+      BackgroundMaker2_53: -1243665375
+      BackgroundMaker2_54: -1130029504
+      BackgroundMaker2_55: 781391018
+      BackgroundMaker2_56: -1027945872
+      BackgroundMaker2_57: -876069770
+      BackgroundMaker2_58: 985510883
+      BackgroundMaker2_59: -1397539227
+      BackgroundMaker2_6: 488241513
+      BackgroundMaker2_60: -1877044905
+      BackgroundMaker2_61: -602495767
+      BackgroundMaker2_62: -938283612
+      BackgroundMaker2_63: 1334515857
+      BackgroundMaker2_64: -187911979
+      BackgroundMaker2_65: -381963869
+      BackgroundMaker2_66: 994444107
+      BackgroundMaker2_67: 1644151579
+      BackgroundMaker2_68: -662688256
+      BackgroundMaker2_69: 1675989095
+      BackgroundMaker2_7: 1829076651
+      BackgroundMaker2_70: -1660273661
+      BackgroundMaker2_71: -1071774511
+      BackgroundMaker2_72: -513379789
+      BackgroundMaker2_73: -218881932
+      BackgroundMaker2_74: -832365494
+      BackgroundMaker2_75: 168602200
+      BackgroundMaker2_76: -375196015
+      BackgroundMaker2_77: -1313833129
+      BackgroundMaker2_78: 725012378
+      BackgroundMaker2_79: -399421334
+      BackgroundMaker2_8: 2026837115
+      BackgroundMaker2_80: -414125858
+      BackgroundMaker2_81: -1115769138
+      BackgroundMaker2_82: -1975819956
+      BackgroundMaker2_83: 1727908029
+      BackgroundMaker2_84: -10190489
+      BackgroundMaker2_85: -966341515
+      BackgroundMaker2_86: -1903627887
+      BackgroundMaker2_87: 275932141
+      BackgroundMaker2_88: -854162428
+      BackgroundMaker2_89: -1413022316
+      BackgroundMaker2_9: -838397246
+      BackgroundMaker2_90: 891097874
+      BackgroundMaker2_91: -746627610
+      BackgroundMaker2_92: -1172543435
+      BackgroundMaker2_93: 1013284936
+      BackgroundMaker2_94: 922476457
+      BackgroundMaker2_95: -921028763
+      BackgroundMaker2_96: 1736779702
+      BackgroundMaker2_97: 1378300132
+      BackgroundMaker2_98: -780011679
+      BackgroundMaker2_99: -1506606182
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
