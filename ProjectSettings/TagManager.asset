@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Water
+  - Tree
+  - Grass
+  - Home
+  - Roof
+  - Ground
+  - House
   layers:
   - Default
   - TransparentFX
@@ -15,10 +22,10 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - GroundLayer
+  - TreeLayer
+  - Grasslayer
+  - HomeLayer
   - 
   - 
   - 
